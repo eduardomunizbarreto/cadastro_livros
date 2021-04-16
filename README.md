@@ -4,8 +4,8 @@ Atividade de padrões de projetos
 ### `yarn install`
 Para instalar as dependências
 
-## Iniciar a api fake
 ### `json-server --watch .\db.json --port 4200`
+Iniciar a api fake
 
 ### `yarn start`
 
