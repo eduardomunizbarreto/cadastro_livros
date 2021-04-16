@@ -1,0 +1,34 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes",
+      "preco": 59.9,
+      "capa": "https://images-na.ssl-images-amazon.com/images/I/41qeEtBu02L._SX357_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Algoritmos E Lógica Da Programação",
+      "preco": 52.99,
+      "capa": "https://images-na.ssl-images-amazon.com/images/I/51uKR6J3cBL._SX345_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Algoritmos: Lógica Para Desenvolvimento de Programação de Computadores - Edição Revisada e Atualizada",
+      "preco": 80,
+      "capa": "https://images-na.ssl-images-amazon.com/images/I/51snbPl-GAL._SX352_BO1,204,203,200_.jpg"
+    },
+    {
+      "titulo": "Use a cabeça!: padrões de projetos",
+      "preco": 131.76,
+      "capa": "https://m.media-amazon.com/images/I/91nsBQAuCML._AC_UL320_.jpg",
+      "id": 6
+    },
+    {
+      "titulo": "Domain-Driven Design: atacando as complexidades no coração do software",
+      "preco": 66.99,
+      "capa": "https://images-na.ssl-images-amazon.com/images/I/51HGF9mg6iL._SX323_BO1,204,203,200_.jpg",
+      "id": 7
+    }
+  ]
+}
