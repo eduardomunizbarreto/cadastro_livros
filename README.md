@@ -1,15 +1,14 @@
 # Cadastro de livros
 Atividade de padrões de projetos
 
-### `yarn install`
 Para instalar as dependências
+### `yarn install`
 
-### `json-server --watch .\db.json --port 4200`
 Iniciar a api fake
-
-### `yarn start`
+### `json-server --watch .\db.json --port 4200`
 
 inicia o app em modo de desenvolvimento.\
+### `yarn start`
 Abra [http://localhost:3000](http://localhost:3000) para ver a aplicação.
 
 
